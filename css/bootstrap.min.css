@@ -109,6 +109,10 @@ p {
   
 }
 
+#filler{
+background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.5)),url(../img//4.jpg)center/cover no-repeat fixed;
+
+}
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
